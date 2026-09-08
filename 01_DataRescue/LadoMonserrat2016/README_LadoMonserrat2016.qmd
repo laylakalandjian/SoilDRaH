@@ -61,23 +61,10 @@ timelog:
       start: 2026-09-05 T1645
       duration: PT45M
   - activity: 
-      description: revised execute with only provided files
-      who: ktoddbrown #github username
-      #when you started and ended, can be just a year or down to the minute
-      start: 2025-01-22 T1400
-      #start: YYYY-MM-DD THH:MM
-      #alternatively duration can be combined with a being/end
+      description: finished methods section transcription.
+      who: laylakalandjian 
+      start: 2026-09-08 T1045
       duration: PT45M
-  - activity: #Suggested that you log each day's activity here
-      description: Revise based on feedback
-      who: ktoddbrown #github username
-      #Over what days did you work on this? Use
-      #... https://en.wikipedia.org/wiki/ISO_8601#Dates format.
-      start: 2025-11-21
-      end: 2025-11-26
-      #Estimate how long this took you, below is an example of 30 minutes. Use
-      #... https://en.wikipedia.org/wiki/ISO_8601#Durations
-      duration: PT30M
 version: 'vs20270801' #template version, remove before use
 ---
 

@@ -44,8 +44,48 @@ Samples were dried in the laboratory at 65 °C for 72 h and weighed.
 
 ## Litter decomposition
 
+Litterbags (15 × 20 cm<sup>2</sup)) were constructed with fibre glass mesh (1.5 mm mesh) and sewn with nylon.
+The filling material, freshly fallen intact needles, was collected from the top of the OL layer in each block in July 2009 and was left to air dry in the laboratory.
+Next 180 litterbags were filled with 10 g of this material per block.
+In each plot, 45 bags were attached to the surface with metal pins at the beginning of October 2009, and three bags per plot were retrieved at 1, 2, 3, 4, 5, 6, 8, 10, 12, 14, 16, 18, 20, 22 and 24 months after being installed.
+On each sampling date, the litterbags were transported to the laboratory in sealed plastic bags.
+Bag content was cleaned of foreign material with a brush and weighed.
+Then samples were dried at 65 °C for 72 h and weighed again.
 
+## Nutrient content analyses
 
+The monthly dynamics of the litterfall nutrient concentration was obtained for the year 2010.
+A composite sample was prepared for each month and block for both the *needles* and *miscellaneous* fractions.
+Another sample was also prepared for each block and season for the other fractions.
+Additionally, the effect of silvicultural treatments on the litterfall nutrient concentration was evaluated for the *needle* and *miscellaneous* fractions in the summer peaks of litterfall production.
+Nutrients were analysed for each plot on both the summer peak sampling dates, which corresponded to August 2010 and July 2011.
+The nutrient concentration was also analysed for the decomposing needles in each plot when litterbags remained in the field for 6, 12, 18 and 24 months.
+The nutrient content of the initial material (0 months) was also obtained.
 
+The litterfall and litterbag samples were milled and sieved to 500 µm.
+Total C and total N were determined by a total analyser (FLASH EA 1112 SERIES-LECO TRUSPEC).
+The P, K, Ca and Mg contents were determined by inductively coupled plasma optical emission spectroscopy (ICP-OES; ICAP 6500 DUO/IRIS INTREPID II XDL), after acid digestion (HNO<sub>3</sub>–H<sub>2</sub>O<sub>2</sub> 4:1) in a microwave.
 
+## Data analyses
 
+The returns of nutrients to soil through litterfall for 2010 were obtained by multiplying the corresponding mass production (kg ha<sup>-1</sup>) by the nutrient concentration (kg kg<sup>-1</sup>), and by adding up all months and fractions.
+In relation to needle decomposition, [@Olson1963] decay rate coefficients ($k$) were obtained as:
+
+$W_t = W_0e^{-kt}$
+
+where $t$ is time (year), $W_t$ is dry weight at time $t$ (g), $W_0$ is the initial dry weight (g) and $k$ the annual decay constant (year<sup>-1</sup>)
+
+The nutrients release from decomposing needles was also obtained as ([@Entry1991]):
+
+$N_t = C_0 - [(1-W)C_t]$
+
+where $N_t$ is the amount of nutrient released or absorbed at time $t$ (g/100g), $C_0$ is the initial nutrient litter concentration (g/100g), $W$ is weight loss at time $t$ (%/100) and $C_t$ is the nutrient litter concentration at time $t$ (g/100g).
+
+The effects of block and silvicultural treatment on litterfall production, nutrient return via litterfall, needle-litter mass loss, decomposing needles moisture, the nutrient concentration of decomposing needles and nutrient release from decomposed needles were tested with repeated-measures ANOVAs, where time was the within-subject factor.
+In the litter decomposition variables, these differences were also tested for each date separately by two-way ANOVAs, where block and silvicultural treatment were the factors.
+Differences in the *needle* and *miscellaneous* litterfall nutrient concentrations on the summer production peak dates were analysed with three-way ANOVAs, with silvicultural treatment, block and year used as the factors.
+Differences in Olson’s $k$ values were analysed with a twoway ANOVA, where block and silvicultural treatment were the factors.
+In some cases, ln(x + 1) transformation was used to achieve homoscedasticity (Levene’s test) and approximate normality.
+When the ANOVAs indicated significant differences between silvicultural treatments, the Tukey’s HSD post hoc test was used.
+If Levene’s test indicated unequal variances of transformed data, then Tamhane’s T2 post hoc test was used.
+All the statistical analyses were performed with SPSS v. 16.
