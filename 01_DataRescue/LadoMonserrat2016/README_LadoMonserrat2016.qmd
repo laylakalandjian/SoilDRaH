@@ -64,7 +64,7 @@ timelog:
       description: finished methods section transcription.
       who: laylakalandjian 
       start: 2026-09-08 T1045
-      duration: PT45M
+      duration: PT15M
 version: 'vs20270801' #template version, remove before use
 ---
 
@@ -185,7 +185,7 @@ These files are in the LadoMonserrat2016 data rescue.
   - [ ] Create a spreadsheet with Table4 and export it to csv
   - [ ] Extract points from Figure3 and export it to csv
   - [ ] Extract points from Figure4 and export it to csv
-  - [ x] Transcribe or copy the method section
+  - [x] Transcribe or copy the method section
   - [ ] Insert references to bib entries
   - [ ] reformat equations and mathematical symbols as [LaTex](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
   - [ ] reformat text using [Markdown](https://www.markdownguide.org/cheat-sheet/)
